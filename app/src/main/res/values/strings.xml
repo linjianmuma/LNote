@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">小实践</string>
+    <string name="title2">无标题:</string>
+    <string name="time">年/月/日 时间</string>
+    <string name="menu_newnote">新建</string>
+    <string name="menu_exit">退出</string>
+    <string name="menu_share">分享便签</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_calendar_">Calendar_Activity</string>
+</resources>
